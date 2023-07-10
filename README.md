@@ -18,7 +18,7 @@ Because the MIPs are maintained as text files in a versioned repository, their r
 
 ## Template
 
-The markdown MIP template can be found [here](/template.md)
+The markdown MIP template can be found [here](https://github.com/decentldotland/MIPs/blob/main/template.md)
 
 ## MIP Workflow
 

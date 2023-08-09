@@ -38,4 +38,4 @@ The implementation of this proposal will involve adding a parsing mechanism for 
 This proposal maintains backward compatibility as it introduces a new reserved property that will not affect existing contract state structures. Existing contracts can continue to function without using the `publicFunctions` property but they will not have the in-IDE functions calling feature.
 
 ## Copyrights
-Copyright and related rights waived via [CC0](../LICENSE).
+Copyright and related rights waived via [CC0](../LICENSE.md).

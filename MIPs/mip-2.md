@@ -1,9 +1,11 @@
 ---
 mip: 2
 title: Standard for MEM public functions detection
+author: Darwin (@charmful0x)
 type: Standards
 discussions-to: n/a (internal)
 status: Final
+created: 09-08-2023
 ---
 
 ## Abstract
@@ -34,3 +36,6 @@ The implementation of this proposal will involve adding a parsing mechanism for 
 
 ## Backwards Compatibility
 This proposal maintains backward compatibility as it introduces a new reserved property that will not affect existing contract state structures. Existing contracts can continue to function without using the `publicFunctions` property but they will not have the in-IDE functions calling feature.
+
+## Copyrights
+Copyright and related rights waived via [CC0](../LICENSE).
